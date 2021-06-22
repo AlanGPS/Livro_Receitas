@@ -4,11 +4,11 @@
 
 _Escrever Itálico_
 
-## Reduzir o Tópico ##
+## Ingredientes da Receita ##
 
-### Reduzir o Tópico
+### Descrição:
 
-- 
-- Espaço e -
--  
-- 
+- Macarrão
+- Molho de tomate
+-  Sal
+- Sinal de menos e espaço
